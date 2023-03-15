@@ -62,23 +62,8 @@
         "What do you call an alligator in a vest? An investigator.",
         "Why did the tomato turn red? Because it saw the salad dressing."
       ]
-    },
-    {
-      "tag": "personal_info",
-      "patterns": [
-        "What's your name?",
-        "How old are you?",
-        "What do you like to do?",
-        "What's your hobby?",
-        "Tell me about yourself."
-      ],
-      "responses": [
-        "My name is Muhammadyusuf and I'm a chatbot.",
-        "I'm ageless but always eager to assist you!",
-        "I like to assist people and make their lives easier. What about you?",
-        "I like to sleep and rest in between conversations. What's your hobby?",
-        "I am a machine, but you can ask me anything you want."
-      ]
     }
+    
+   
   ]
 }
