@@ -8,6 +8,6 @@
     You may use LSTM,RNN or GRU for the model. I just used ANN as my purpose is not built chatbot with it, but to 
     undestand how the AI behind chatbots works.
     
-    ![image](https://github.com/12194916/ChatBot_fromScratch_using_NeuralNetworks_to_Begin/assets/90163078/1bfbb61f-f155-41f9-a764-bfaf5c06a68b)
+ 
 
 
